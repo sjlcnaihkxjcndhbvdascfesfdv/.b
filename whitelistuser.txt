@@ -2,6 +2,7 @@
 
 local user={
 "ysxixixixi",
+"Paimonawa",
 "sojxie666",
 "crazy_huan233",
 "shhdjldn",
