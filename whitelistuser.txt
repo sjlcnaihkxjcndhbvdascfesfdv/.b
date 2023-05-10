@@ -2,10 +2,11 @@
 
 local user={
 "ooooshisb",
+"ooooshisb",
 "widkwd438",
 "6445lzh",
 "sb6333333333",
-"shadiao_yazi",
+"chara0m0",
 "shadiao_yazi",
 "shadiao_yazi",
 "123456789zli",
