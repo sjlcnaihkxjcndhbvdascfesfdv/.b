@@ -1,6 +1,8 @@
 
 
 local user={
+
+"wzx147222",
 "ooooshisb",
 "ooooshisb",
 "widkwd438",
