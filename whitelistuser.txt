@@ -21,7 +21,7 @@ local user={
 "ysxixixixi",
 "Paimonawa",
 "sojxie666",
-"crazy_huan233",
+"Crazy_huan233",
 "shhdjldn",
 "1231iwhsksh",
 "qwert111treyheh",
