@@ -9,7 +9,7 @@ local user={
 "6445lzh",
 "sb6333333333",
 "chara0m0",
-"shadiao_yazi",
+"gvhb_000",
 "shadiao_yazi",
 "123456789zli",
 "123sjkkYRQ",
