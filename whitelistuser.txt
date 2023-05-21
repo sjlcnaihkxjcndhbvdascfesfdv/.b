@@ -29,7 +29,7 @@ local user={
 "dingding_che",
 "zuoguobin",
 "wlovxvolw",
-"ycjgctfh",
+"CN_NB07",
 "ycjgctfh",
 "ycjgctfh",
 "ycjgctfh",
