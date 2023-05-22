@@ -24,7 +24,7 @@ local user={
 "125437qwertyuiop",
 "fddsfejsgsge",
 "songyaqi357",
-"asdsasrfxfg152",
+"asdsasrsfxfg152",
 "kwmndli",
 "dingding_che",
 "zuoguobin",
