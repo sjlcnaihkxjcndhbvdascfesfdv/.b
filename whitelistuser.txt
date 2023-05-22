@@ -27,7 +27,7 @@ local user={
 "asdsasrsfxfg152",
 "kwmndli",
 "dingding_che",
-"zuoguobin",
+"zouguobin",
 "wlovxvolw",
 "CN_NB07",
 "055jhhgghj",
