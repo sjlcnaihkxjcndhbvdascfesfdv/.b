@@ -38,7 +38,7 @@ local user={
 "lijunyan666",
 "tik_yilishalv",
 "ycjgctfh",
-"ycjgctfh",
+"PELTUAF",
 "ycjgctfh",
 "ycjgctfh",
 "jchswpjvc",
