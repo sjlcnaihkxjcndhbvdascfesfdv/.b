@@ -2,7 +2,7 @@
 
 local user={
 "hufdvurd",
-"yizi123123",
+"gggggokokg",
 "yizi123123",
 "yizi123123",
 "yizi123123",
@@ -327,7 +327,7 @@ local user={
 
 "gaozhijun1141514",
 
-"ijenshv",
+"ijenshn",
 
 "MC_SIH",
  "xtl_cat2",
