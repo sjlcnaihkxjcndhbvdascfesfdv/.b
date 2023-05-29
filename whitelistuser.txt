@@ -77,7 +77,7 @@ local user={
 "wxdj502",
 "lenshang11",
 "lijunyan666",
-"tik_yilishalv",
+"Tik_yilishalv",
 "ycjgctfh",
 "PELTUAF",
 "ycjgctfh",
