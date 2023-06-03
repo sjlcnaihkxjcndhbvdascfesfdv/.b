@@ -36,7 +36,7 @@ local user={
 "yizi123123",
 "yizi123123",
 "ikui6666",
-"yybzsr",
+"YYBZSr",
 "kwmnddd",
 "kevenfu123",
 "6445mqm",
