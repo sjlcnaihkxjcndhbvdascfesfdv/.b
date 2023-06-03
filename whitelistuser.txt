@@ -12,7 +12,7 @@ local user={
 "sqjsikun",
 "apsansuei",
 "HC_FMRZWJET",
-"yizi123123",
+"NPebpm182",
 "yizi123123",
 "yizi123123",
 "yizi123123",
