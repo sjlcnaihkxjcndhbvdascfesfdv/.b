@@ -26,7 +26,7 @@ local user={
 "hyddr123",
 "wszgr116",
 "asdf478385",
-"yizi123123",
+"wszgr115",
 "yizi123123",
 "yizi123123",
 "yizi123123",
