@@ -25,7 +25,7 @@ local user={
 "Lovetyyc",
 "hyddr123",
 "wszgr116",
-"yizi123123",
+"asdf478385",
 "yizi123123",
 "yizi123123",
 "yizi123123",
