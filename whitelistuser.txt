@@ -25,7 +25,7 @@ local user={
 "linnnnnnnsq",
 "ddd123lili",
 "fanzun1",
-"CHNYiP",
+"CHNyip",
 "CN_xiaozhe",
 "hufdvurd5",
 "hufdvurd5",
