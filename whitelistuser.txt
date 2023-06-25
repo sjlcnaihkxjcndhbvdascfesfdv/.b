@@ -46,7 +46,7 @@ local user={
 "zhongguo_xiaoxi",
 "kjh25804kjh",
 "wxhllq1227",
-"MoYue97",
+"moyue97",
 "hufdvurd5",
 "hufdvurd5",
 "hufdvurd5",
