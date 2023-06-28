@@ -240,7 +240,6 @@ local user={
 "5WSGH",
 "QInyuexxx",
 "xiaobai_CN",
-"10086ajstap",
 "zuoxiarenji",
 "yanyicozl",
 "Goodandgreat25",
