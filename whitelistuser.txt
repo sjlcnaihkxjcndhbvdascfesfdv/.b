@@ -67,7 +67,7 @@ local user={
 "cicialid",
 "vpn_kerot",
 "wjwihvs",
-"hufdvurd5",
+"NanShengPlay",
 "hufdvurd5",
 "hufdvurd5",
 "hufdvurd5",
