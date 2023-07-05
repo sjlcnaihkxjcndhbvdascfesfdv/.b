@@ -110,7 +110,7 @@ local user={
 "opo_awa",
 "xiatian_bujieshi",
 "cfrnb666",
-"hufdvurd5",
+"weijibo",
 "hufdvurd5",
 "hufdvurd5",
 "hufdvurd5",
