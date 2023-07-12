@@ -247,7 +247,7 @@ local user={
 "songyaqi357",
 "asdsasrsfxfg152",
 "kwmndli",
-"dingding_che",
+"cheche_ding",
 "zouguobin",
 "wlovxvolw",
 "CN_NB07",
