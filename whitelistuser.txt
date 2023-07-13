@@ -7,7 +7,7 @@ local user={
 "ghx20gnd",
 "zbc666_zbc",
 "sgcs_ygv2022",
-"ShenHaoyuabab",
+"awalqwq",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
