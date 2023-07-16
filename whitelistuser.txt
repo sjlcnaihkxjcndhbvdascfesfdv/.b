@@ -16,7 +16,7 @@ local user={
 "wslt666",
 "kwmndzzz",
 "dbtgxgcfy",
-"ShenHaoyuabab",
+"fikhoq",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
