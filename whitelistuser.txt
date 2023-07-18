@@ -26,7 +26,7 @@ local user={
 "CN_leaf55416",
 "Cjxdgew",
 "china456258",
-"ShenHaoyuabab",
+"she78004",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
