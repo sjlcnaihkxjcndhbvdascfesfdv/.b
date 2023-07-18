@@ -28,7 +28,7 @@ local user={
 "china456258",
 "she78004",
 "CN_114514lizhi",
-"ShenHaoyuabab",
+"Xiaoweiwe",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
 "ShenHaoyuabab",
