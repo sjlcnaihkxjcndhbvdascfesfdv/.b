@@ -239,7 +239,7 @@ local user={
 "123456xiao",
 "haitpm",
 "nknc21",
-"hufdvurd5",
+"xing_ran2",
 "hufdvurd5",
 "hufdvurd5",
 "hufdvurd5",
