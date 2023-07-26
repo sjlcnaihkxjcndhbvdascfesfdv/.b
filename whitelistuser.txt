@@ -1,6 +1,7 @@
 
 
 local user={
+"qq5206666",
 "sjdjrnf46",
 "7979qm",
 "tfyfhd666",
