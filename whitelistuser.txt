@@ -3,7 +3,7 @@
 local user={
 "laotie66600",
 "s_bjntm",
-"qq5206666",
+"HC_FMRZWJETL",
 "qq5206666",
 "qq5206666",
 "qq5206666",
