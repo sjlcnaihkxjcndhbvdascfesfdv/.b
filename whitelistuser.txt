@@ -4039,13 +4039,8 @@ local vu = game:GetService("VirtualUser")
 		   wait(1)
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
-if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635    then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/bf'))()
 
-else
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
-
-end
 
 else
 game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，请购买或者找群主反馈")
