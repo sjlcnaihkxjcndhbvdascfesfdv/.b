@@ -24,7 +24,7 @@ local user={
 "lakssjdjh",
 "zhangjianjun123",
 "liaoyijie5",
-"qq5206666",
+"aosnsinw",
 "qq5206666",
 "qq5206666",
 "qq5206666",
