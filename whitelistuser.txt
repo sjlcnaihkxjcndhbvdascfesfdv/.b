@@ -36,7 +36,7 @@ local user={
 "lian8536",
 "jsjhxajx",
 "tqzxhl",
-"qq5206666",
+"ikun2931",
 "qq5206666",
 "qq5206666",
 "qq5206666",
