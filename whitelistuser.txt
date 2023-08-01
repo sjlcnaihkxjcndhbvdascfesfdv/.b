@@ -43,7 +43,7 @@ local user={
 "xuanhan_jie",
 "nxihendi",
 "ughlDGghhc",
-"qq5206666",
+"dianyushiwoerzi",
 "qq5206666",
 "qq5206666",
 "qq5206666",
