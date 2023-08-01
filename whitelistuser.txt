@@ -46,7 +46,7 @@ local user={
 "dianyushiwoerzi",
 "158cxks",
 "cccbbbeeebbb",
-"qq5206666",
+"lyx_zs",
 "qq5206666",
 "qq5206666",
 "qq5206666",
