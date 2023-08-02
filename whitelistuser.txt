@@ -531,7 +531,7 @@ local user={
 "XYJJZML",
 "1234dxh35",
 "xingchenzhi_guang",
-"ddcsgzhggg",
+"ddcsgzhg",
 "jagjajmdaab",
 "jhgfdsallll",
 "laojie857",
