@@ -52,7 +52,7 @@ local user={
 "sbjianb",
 "Lavecaxec",
 "ctrl1145140",
-"qq5206666",
+"jbsb250",
 "qq5206666",
 "qq5206666",
 "qq5206666",
