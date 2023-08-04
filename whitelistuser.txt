@@ -56,7 +56,7 @@ local user={
 "chinaz0202",
 "1qmn2qmn",
 "fesy077",
-"qq5206666",
+"kuaishouyouyou",
 "qq5206666",
 "qq5206666",
 "qq5206666",
