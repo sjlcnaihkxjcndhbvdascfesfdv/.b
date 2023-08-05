@@ -65,7 +65,7 @@ local user={
 "123456qqqqqaaa",
 "mjhfgzs",
 "Dazecvoez",
-"qq5206666",
+"ZZDISF",
 "qq5206666",
 "qq5206666",
 "qq5206666",
