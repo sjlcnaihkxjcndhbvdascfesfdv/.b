@@ -1,6 +1,7 @@
 
 
 local user={
+"dianyuaa",
 "laotie66600",
 "s_bjntm",
 "HC_FMRZWJETL",
