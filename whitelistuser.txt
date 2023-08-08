@@ -20,7 +20,7 @@ local user={
 "qian_sh",
 "ooyy72",
 "OurPlay678",
-"dianyuaa",
+"LGX002",
 "dianyuaa",
 "dianyuaa",
 "dianyuaa",
