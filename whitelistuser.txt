@@ -25,7 +25,7 @@ local user={
 "Guctr520",
 "zaizaiya11",
 "wszgr203",
-"dianyuaa",
+"cuimingxin",
 "dianyuaa",
 "dianyuaa",
 "dianyuaa",
