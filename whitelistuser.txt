@@ -28,7 +28,7 @@ local user={
 "cuimingxin",
 "q15196735642",
 "Daswy44",
-"dianyuaa",
+"zhangfengshan",
 "dianyuaa",
 "dianyuaa",
 "dianyuaa",
