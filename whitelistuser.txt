@@ -2,7 +2,7 @@
 
 local user={
 
-"ikng_loveyou",
+"wos_930",
 "ikng_loveyou",
 "ikng_loveyou",
 "ikng_loveyou",
