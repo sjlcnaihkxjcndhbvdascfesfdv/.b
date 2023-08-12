@@ -3,7 +3,7 @@
 local user={
 
 "wos_930",
-"ikng_loveyou",
+"zhanganpu",
 "ikng_loveyou",
 "ikng_loveyou",
 "ikng_loveyou",
