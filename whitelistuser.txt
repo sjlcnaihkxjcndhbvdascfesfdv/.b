@@ -4,7 +4,7 @@ local user={
 
 "wos_930",
 "zhanganpu",
-"ikng_loveyou",
+"emmmzx123",
 "ikng_loveyou",
 "ikng_loveyou",
 "ikng_loveyou",
