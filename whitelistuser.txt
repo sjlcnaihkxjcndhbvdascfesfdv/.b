@@ -1,6 +1,8 @@
 
 
 local user={
+"lisiike818439",
+"GuoZiHao20071020",
 "Ananlovaanan114514",
 "lwcdfghj",
 "zou123332",
@@ -56,7 +58,7 @@ local user={
 "wszgr203",
 "cuimingxin",
 "q15196735642",
-"Daswy44",
+"xiaoxiaoixo",
 "zhangfengshan",
 "wevyyds16",
 "ejn554l",
