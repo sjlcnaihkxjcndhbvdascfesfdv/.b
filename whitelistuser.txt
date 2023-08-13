@@ -1,6 +1,6 @@
 
 
-本地用户={
+local user={
 "jasornoms",
 "lisiike818439",
 "GuoZiHao20071020",
