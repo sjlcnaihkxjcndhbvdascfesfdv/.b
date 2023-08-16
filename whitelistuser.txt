@@ -1,6 +1,7 @@
 
 
 local user={
+"lengyan666666",
 "Thenorthernareas",
 "zkrwxy520",
 "emmmzx1234",
