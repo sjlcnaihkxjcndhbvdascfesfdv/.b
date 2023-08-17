@@ -38,7 +38,7 @@ local user={
 "ksxiance",
 "ikng_loveyou",
 "China47258",
-"ikng_loveyou",
+"WEIOPNN",
 "ikng_loveyou",
 "ikng_loveyou",
 "ikng_loveyou",
