@@ -4,7 +4,7 @@ local user={
 
 "longlonglong66",
 "ikun3450",
-"rxn_rggrffh",
+"S207676",
 "rxn_rggrffh",
 "rxn_rggrffh",
 "rxn_rggrffh",
@@ -3462,7 +3462,7 @@ local user={
 
 "ikuyo1215",
 
-"ifw215",
+"ifw215n",
 
 "YBTPPD",
 
