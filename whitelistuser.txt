@@ -13,7 +13,7 @@ local user={
 "HSXSQHR2003",
 "hezeyvhao",
 "rcfhf54",
-"rxn_rggrffh",
+"Chinese_254",
 "rxn_rggrffh",
 "rxn_rggrffh",
 "rxn_rggrffh",
