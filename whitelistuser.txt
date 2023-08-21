@@ -4162,5 +4162,7 @@ local vu = game:GetService("VirtualUser")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
 
 else
-game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，请购买或者找群主反馈")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
+
+
 end
