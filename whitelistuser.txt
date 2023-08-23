@@ -14,7 +14,7 @@ local user={
 "ikunikunnao_114514",
 "ryyddfg_7",
 "ZJJ666NB",
-"longlonglong66",
+"MontellaGreat",
 "longlonglong66",
 "vpn_zar",
 "CN_cn",
