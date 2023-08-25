@@ -4206,7 +4206,6 @@ local vu = game:GetService("VirtualUser")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
 
 else
-loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
-
+game.Players.LocalPlayer:Kick('你没有加入白名单')
 
 end
