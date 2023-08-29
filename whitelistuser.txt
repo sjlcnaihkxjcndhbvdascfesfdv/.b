@@ -2,7 +2,7 @@
 
 local user={
 
-"igjh88",
+"Flys_Bird2",
 "igjh88",
 "igjh88",
 "igjh88",
