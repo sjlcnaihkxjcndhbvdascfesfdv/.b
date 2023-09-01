@@ -22,7 +22,7 @@ local user={
 "wowtywkw",
 "1234567899aaw",
 "3npugup",
-"igjh88",
+"CN_TWR1145",
 "igjh88",
 "ckdycj07",
 "igjh88",
