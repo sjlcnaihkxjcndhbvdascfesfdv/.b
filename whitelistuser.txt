@@ -6,7 +6,7 @@ local user={
 "Vyy666888",
 "fuzitao",
 "dxlidawe",
-"Flys_Bird2",
+"Echo_Abyass",
 "Flys_Bird2",
 "Flys_Bird2",
 "Flys_Bird2",
