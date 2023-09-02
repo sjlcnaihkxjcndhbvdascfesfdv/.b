@@ -9,7 +9,7 @@ local user={
 "Echo_Abyass",
 "hidjdjiw",
 "An209n",
-"Flys_Bird2",
+"xiaofu114514",
 "Flys_Bird2",
 "Flys_Bird2",
 "Flys_Bird2",
