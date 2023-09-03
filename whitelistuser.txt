@@ -12,7 +12,7 @@ local user={
 "xiaofu114514",
 "Jerry_chine",
 "bafeigjjmosstuxx1",
-"Flys_Bird2",
+"mnkj123p",
 "Flys_Bird2",
 "Sunyeelang",
 "Flys_Bird2",
