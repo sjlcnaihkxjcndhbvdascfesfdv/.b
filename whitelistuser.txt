@@ -13,7 +13,7 @@ local user={
 "Jerry_chine",
 "bafeigjjmosstuxx1",
 "mnkj123p",
-"Flys_Bird2",
+"ziyin86",
 "Sunyeelang",
 "Flys_Bird2",
 "Tiancaiyibb",
