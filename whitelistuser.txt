@@ -14,7 +14,7 @@ local user={
 "1234567890qqqqqqa",
 "dogeshisb",
 "cn_hahaha1",
-"a_138hh",
+"niumajiba",
 "a_138hh",
 "a_138hh",
 "a_138hh",
