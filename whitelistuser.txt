@@ -11,7 +11,7 @@ local user={
 "zhucheNB",
 "wsndnbja",
 "Fjkt5u",
-"bilibili958",
+"fuitrow",
 "bilibili958",
 "bilibili958",
 "4376duws46",
