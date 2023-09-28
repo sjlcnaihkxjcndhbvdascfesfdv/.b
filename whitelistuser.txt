@@ -4,7 +4,7 @@ local user={
 
 "CN_EYES111",
 "juijjj999",
-"123456qqqaaa_1",
+"Canyoufool",
 "123456qqqaaa_1",
 "dudjxjx_4",
 "123456qqqaaa_1",
