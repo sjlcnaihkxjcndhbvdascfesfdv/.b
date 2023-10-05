@@ -3,6 +3,15 @@
 local user={
 
 "ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
+"ncb5201314",
 "zmzsabcd",
 "yffhgffhhd11",
 "meinvmeinv",
@@ -11,7 +20,7 @@ local user={
 "wwyyeerreer",
 "wd890044",
 "qwq24325Z",
-"007108bss",
+"hhfhgufufy",
 "lulijuan122",
 "007108bss",
 "ttfguuffn",
@@ -4350,6 +4359,6 @@ local vu = game:GetService("VirtualUser")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
 
 else
-game.Players.LocalPlayer:Kick('你没有加入白名单')
+game.Players.LocalPlayer:Kick(game.Players.LocalPlayer.Name..'你没有加入白名单')
 
 end
