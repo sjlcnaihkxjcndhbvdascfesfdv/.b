@@ -10,7 +10,7 @@ local user={
 "twachec123",
 "jjdjdogkrbw",
 "zhaotianyiuo",
-"ncb5201314",
+"wj_wjpm",
 "ncb5201314",
 "zmzsabcd",
 "yffhgffhhd11",
