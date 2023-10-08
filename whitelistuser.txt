@@ -3,6 +3,8 @@
 local user={
 
 "Chinese_Garba",
+"owe851230",
+"Chinese_Garba",
 "Aerukyfff",
 "woshiaikun00",
 "wssb1919810",
