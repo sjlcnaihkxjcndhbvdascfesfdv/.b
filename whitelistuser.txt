@@ -7,7 +7,7 @@ local user={
 "fengzhengshi",
 "fengzhengshi",
 "fengzhengshi",
-"ILIETAIWANYAYA",
+"ILIKETAIWANYAYA",
 "wjphjhj",
 "fengzhengshi",
 "owe851230",
