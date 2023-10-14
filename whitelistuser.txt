@@ -3,6 +3,8 @@
 local user={
 
 "mzipmggwgw",
+"MNZem",
+"mzipmggwgw",
 "GUDA_B",
 "HXB20111",
 "wedsfdgcdgvt",
