@@ -2,6 +2,7 @@
 
 local user={
 
+"zndiff96",
 "ChinaDuanjian",
 "vipwyf886",
 "litow",
