@@ -4367,6 +4367,7 @@ until game.Players.LocalPlayer.Character~=nil;
 local a=tostring(game.Players.LocalPlayer.Character);
 
 if table.find(user,a) then
+spawn(function()
 game.StarterGui:SetCore("SendNotification", {
         Title = "白", 
         Text = "开始反挂机",
@@ -4378,6 +4379,8 @@ local vu = game:GetService("VirtualUser")
 		   wait(1)
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
+end)
+
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
 
