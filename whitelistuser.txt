@@ -2,6 +2,7 @@
 
 local user={
 
+"liguoqingx",
 "zuishuai09",
 "jsbsjsj32",
 "zndiff96",
