@@ -2,8 +2,8 @@
 
 local user={
 
-"ufcjtwp",
-"ufcjtwp",
+"ChinaDuanjian",
+"vipwyf886",
 "litow",
 "wzq2h",
 "sysgyszgys",
