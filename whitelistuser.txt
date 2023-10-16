@@ -3,6 +3,8 @@
 local user={
 
 "liguoqingx",
+"mk1127fasr",
+"liguoqingx",
 "zuishuai09",
 "jsbsjsj32",
 "zndiff96",
