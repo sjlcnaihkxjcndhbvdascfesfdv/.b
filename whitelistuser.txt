@@ -2,6 +2,7 @@
 
 local user={
 
+"zgr45zgr45",
 "qweASEwrq",
 "qiejdirhdvei",
 "jijibao428",
