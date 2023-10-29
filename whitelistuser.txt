@@ -2,6 +2,8 @@
 
 local user={
 
+"jsbdj07",
+"xingtaiduan",
 "CODMPUV",
 "hufdvurd99",
 "He5vy",
