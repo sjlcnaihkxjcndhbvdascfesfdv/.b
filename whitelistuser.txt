@@ -2,6 +2,8 @@
 
 local user={
 
+"lqslqslqs1",
+"xiangjiaoge54188",
 "ChenmnB99",
 "zyhns666",
 "zy123210",
