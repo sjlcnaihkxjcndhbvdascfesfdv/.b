@@ -2,7 +2,8 @@
 
 local user={
 
-"6SlnThe",
+"shlofkxb",
+"6SInThe",
 "jinyu0012",
 "lqslqslqs1",
 "xiangjiaoge54188",
