@@ -2,6 +2,7 @@
 
 local user={
 
+"baijuyifan",
 "qrtdfdyfddtr",
 "qqqaaazzzwwwsssccc",
 "951357nvjn",
