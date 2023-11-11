@@ -2,6 +2,7 @@
 
 local user={
 
+"Lambmh",
 "baijuyifan",
 "jinyan2010",
 "qrtdfdyfddtr",
