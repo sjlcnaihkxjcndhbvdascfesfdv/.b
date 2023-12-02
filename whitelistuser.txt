@@ -2,6 +2,7 @@
 
 local user={
 
+"CN_RYESOS",
 "jsbxbxjdjg",
 "cjvjjsbnvv",
 "chisilail",
