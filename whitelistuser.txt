@@ -1,8 +1,6 @@
-
-
 local user={
 
-"VIP114514x",
+"Appiw922",
 "igijsgsbjsb",
 "VIP114514x",
 "cjvjjsbnvvv",
