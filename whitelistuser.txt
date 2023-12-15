@@ -1,6 +1,6 @@
 local user={
 
-"caq_jvss",
+"caq_jvs",
 "1922wjh",
 "Undertaledhk",
 "uftxu1580",
