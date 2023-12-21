@@ -1,5 +1,7 @@
 local user={
 
+"duxns95",
+"jjttudgf",
 "jjttudgf",
 "124ghhc",
 "eee9eer",
