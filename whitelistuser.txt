@@ -1,5 +1,7 @@
 local user={
 
+"hanboye444",
+"bigngq",
 "openbook2023",
 "w520x",
 "2npugup",
