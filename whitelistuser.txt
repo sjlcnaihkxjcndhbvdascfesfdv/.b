@@ -1,5 +1,6 @@
 local user={
 
+"weaotys",
 "LQX_GGA",
 "vim0_0vim",
 "sjggskjhh",
