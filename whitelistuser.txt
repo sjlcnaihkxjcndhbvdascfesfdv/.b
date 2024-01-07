@@ -1,5 +1,6 @@
 local user={
 
+"CNpaiweishangbuqu",
 "rip_tanzhiwen6789",
 "baicaiaaa",
 "atrewout1",
