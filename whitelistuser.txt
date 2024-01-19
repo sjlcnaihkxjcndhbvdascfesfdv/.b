@@ -1,5 +1,7 @@
 local user={
 
+"spf820827",
+"CN_otikw",
 "dysolong",
 "laomaogua0",
 "awcttvgf",
