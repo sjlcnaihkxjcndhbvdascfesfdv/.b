@@ -4535,7 +4535,7 @@ lp.UserId=0
 
 local player = game:GetService("Players"):GetPlayerByUserId(olduserid)
 
-if tostring(player) ~=lp.Name then
+if tostring(player) ~=a then
   lp:Kick ("不要改名") return
 end
 
