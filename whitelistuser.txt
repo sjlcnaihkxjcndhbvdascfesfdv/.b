@@ -4529,11 +4529,25 @@ local vu = game:GetService("VirtualUser")
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
 end)
+local lp = game:GetService("Players").LocalPlayer
+local olduserid=lp.UserId
+lp.UserId=0
 
+local player = game:GetService("Players"):GetPlayerByUserId(olduserid)
+
+if tostring(player) ~=lp.Name then
+  lp:Kick ("不要改名") return
+end
+if olduserid~=lp.CharacterAppearanceId then
+  lp:Kick ("不要改名") return
+end
+lp.UserId=olduserid
+if game:FindFirstChild('Players') then
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sjlcnaihkxjcndhbvdascfesfdv/.b/main/'..tostring(game.PlaceId)))()
 
 else
 game.Players.LocalPlayer:Kick(game.Players.LocalPlayer.Name..'你没有加入白名单')
 
+end
 end
