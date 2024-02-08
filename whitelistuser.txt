@@ -4538,9 +4538,7 @@ local player = game:GetService("Players"):GetPlayerByUserId(olduserid)
 if tostring(player) ~=lp.Name then
   lp:Kick ("不要改名") return
 end
-if olduserid~=lp.CharacterAppearanceId then
-  lp:Kick ("不要改名") return
-end
+
 lp.UserId=olduserid
 if game:FindFirstChild('Players') then
 
