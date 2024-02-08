@@ -4534,11 +4534,11 @@ local olduserid=lp.UserId
 lp.UserId=0
 local player = game:GetService("Players"):GetPlayerByUserId(olduserid)
 
-if tostring(player) ~=lp.Name then
-  lp:Kick ("不要改名") return
+if tostring(player) ~= then
+  lp:Kick ("不要改名1") return
 end
 if olduserid~=lp.CharacterAppearanceId then
-  lp:Kick ("不要改名") return
+  lp:Kick ("不要改名2") return
 end
 lp.UserId=olduserid
 if game:FindFirstChild('Players') then
