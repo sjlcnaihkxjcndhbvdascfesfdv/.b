@@ -4515,7 +4515,7 @@ local user={
     until game.Players.LocalPlayer.Character~=nil;
     local a=tostring(game.Players.LocalPlayer.Character);
     
-    if game:HttpGet('http://baiscript.back1.hpnu.cn/pil/getwhitelist?name='..a)=='True' then
+    if game:HttpGet('http://baiscript.hppro1.hpnu.cn/pil/getwhitelist?name='..a)=='True' then
     spawn(function()
     game.StarterGui:SetCore("SendNotification", {
             Title = "白", 
